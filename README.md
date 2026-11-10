@@ -1,3 +1,5 @@
+<img width="1629" height="430" alt="logocactos" src="https://github.com/user-attachments/assets/577cc836-055a-40c8-a982-b2c7a5ccf5a6" />
+
 # Cactos IDE — Downloads oficiais
 
 [![Versão](https://img.shields.io/badge/versão-v0.2.0--beta.1-16c98d)](https://github.com/yagostn/cactos-ide-releases/releases/tag/v0.2.0-beta.1)
