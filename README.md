@@ -14,10 +14,10 @@ Este repositório publica os instaladores, checksums e manifestos de atualizaç�
 
 | Sistema | Arquitetura | Instalador |
 | --- | --- | --- |
-| macOS | Apple Silicon (M1 ou mais recente) | [Baixar DMG](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_macos-arm64.dmg) |
-| macOS | Intel x64 | [Baixar DMG](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_macos-x64.dmg) |
-| Windows | x64 | [Baixar instalador EXE](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_windows-x64.exe) |
-| Linux | x64 | [Baixar AppImage](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_linux-x64.AppImage) |
+| macOS | Apple Silicon (M1 ou mais recente) | [Baixar macOS](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_macos-arm64.dmg) |
+| macOS | Intel x64 | [Baixar macOS-Intel](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_macos-x64.dmg) |
+| Windows | x64 | [Baixar Windowns](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_windows-x64.exe) |
+| Linux | x64 | [Baixar Linux](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/Cactos-IDE_0.2.0-beta.1_linux-x64.AppImage) |
 
 [Ver notas da versão](https://github.com/yagostn/cactos-ide-releases/releases/tag/v0.2.0-beta.1) · [Verificar SHA-256](https://github.com/yagostn/cactos-ide-releases/releases/download/v0.2.0-beta.1/SHA256SUMS.txt) · [Site oficial](https://cactoside.vercel.app)
 
